@@ -1,0 +1,26 @@
+.para {
+    background-color: rgb(243, 139, 157);
+    color : black;
+    font-size: 35px;
+    font-weight: 200;
+}
+#id-1 {
+    background-color: white;
+    color : blue;
+    font-size: 50px;
+    font-weight: 500;
+
+}
+.para.elem2 {
+    color: black;
+    font-size: 35px;
+}
+#id-2 {
+    background-color: rgb(129, 212, 129);
+    color: black;
+    font-size: 45px;
+    font-weight: 600;
+}
+.para.elem3 {
+    background-color: rgb(247, 202, 209);
+}

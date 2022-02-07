@@ -1,0 +1,10 @@
+#bouton {
+    color: white;
+    background-color: black;
+    font-size: 35px;
+}
+.bouton.le2{
+    color: black;
+    background-color: yellow;
+    font-size: 35px;
+}
