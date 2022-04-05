@@ -7,11 +7,15 @@ html, body {
 .header{
   font-weight: bold;
 }
+
+.bouton{
+  margin-top: 12px;
+  
+}
 .haut{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 20px;
 }
 body {
   font-family: Roboto, sans-serif;
